@@ -1,6 +1,6 @@
 # Phrase Hunters Game
 
-This is a command-line game built in Python where the player has to guess a phrase by guessing individual letters. The game displays a phrase as a series of underscores, and the player has to guess letters one at a time. If the player guesses a correct letter, it is displayed in the phrase. If the player guesses an incorrect letter, a part of a hangman is drawn. The game ends when the player guesses the phrase or makes five incorrect guesses.
+This is a command-line game built in Python where the player has to guess a phrase by guessing individual letters. The game displays a phrase as a series of underscores, and the player has to guess letters one at a time. If the player guesses a correct letter, it is displayed in the phrase. If the player guesses an incorrect letter, the letter is diplayed above the phrase. The game ends when the player guesses the phrase or makes five incorrect guesses.
 
 ## Installation
 
